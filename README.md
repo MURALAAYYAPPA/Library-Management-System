@@ -95,3 +95,4 @@ By completing this project, you will:
 
 OUTPUT : 
 
+<img width="1481" height="742" alt="Image" src="https://github.com/user-attachments/assets/fa127d02-81c7-4279-b226-4d5f96cf0afb" />
